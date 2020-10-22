@@ -1,18 +1,6 @@
-[
-{
-    "name": "How do they Do it",
-    "url": "abc.com",
-    "photo": "ss.com"
-},
-{
-    "name": "How do they Do it",
-    "url": "abc.com",
-    "photo": "ss.com"
-},
-{
-    "name": "How do they Do it",
-    "url": "abc.com",
-    "photo": "ss.com"
-}
-
-]
+{"employees":[    
+    {"name":"Ram", "email":"ram@gmail.com", "age":23},    
+    {"name":"Shyam", "email":"shyam23@gmail.com", "age":28},  
+    {"name":"John", "email":"john@gmail.com", "age":33},    
+    {"name":"Bob", "email":"bob32@gmail.com", "age":41}   
+]}  
